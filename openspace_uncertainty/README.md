@@ -1,5 +1,7 @@
 ### OpenSpace Project - Orbital Uncertainty Visualization
 
+![2020 VW](2020VW_20Variants.png)
+
 To install the required packages:
 
 ```shell
