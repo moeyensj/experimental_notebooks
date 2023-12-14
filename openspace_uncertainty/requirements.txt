@@ -1,5 +1,6 @@
 adam-core @ git+https://github.com/B612-Asteroid-Institute/adam_core@main
-pyarrow >= 13.0.0
+mpcq
+pyarrow >= 14.0.0
 quivr
 numpy
 pandas
